@@ -1,0 +1,31 @@
+https://www.arbeitsagentur.de/jobsuche/jobdetail/16044-K45PKOL0Q7N727F8-S
+
+Header:
+
+GET /jobsuche/jobdetail/16044-K45PKOL0Q7N727F8-S HTTP/2
+Host: www.arbeitsagentur.de
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: de,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Sec-GPC: 1
+Connection: keep-alive
+Cookie: wwwarbeitsagentur=0227eab218-f9b5-46zmN8_wp4Gf3pQLlQxLhjwchwByMMH8yAjsQMimQa8MTT8sDr7sp2rGI8Ftj_Dh0iJo0; cookie_consent=accepted; personalization_consent=accepted; marketing_consent=accepted; _pk_ref.35.cfae=%5B%22%22%2C%22%22%2C1748974995%2C%22https%3A%2F%2Fwww.google.com%2F%22%5D; _pk_id.35.cfae=8b5daffa6d796864.1748962596.; _pk_ses.35.cfae=1
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+Cookie:
+
+
+_pk_id.35.cfae	"8b5daffa6d796864.1748962596."
+_pk_ref.35.cfae	'["","",1748974995,"https://www.google.com/"]'
+_pk_ses.35.cfae	"1"
+cookie_consent	"accepted"
+marketing_consent	"accepted"
+personalization_consent	"accepted"
+wwwarbeitsagentur	"0227eab218-f9b5-46zmN8_wp4Gf3pQLlQxLhjwchwByMMH8yAjsQMimQa8MTT8sDr7sp2rGI8Ftj_Dh0iJo0"
+

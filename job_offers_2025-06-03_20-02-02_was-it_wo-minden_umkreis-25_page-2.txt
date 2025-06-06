@@ -1,0 +1,543 @@
+[
+  {
+    "beruf": "Fachunteroffizier - Allgemeiner Fachdienst",
+    "titel": "IT-System-Elektronikerin / IT-System-Elektroniker Cyber / IT (m/w/d)",
+    "refnr": "10001-1001315475-S",
+    "arbeitsort": {
+      "plz": "31675",
+      "ort": "Bückeburg",
+      "region": "Niedersachsen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.2953904,
+        "lon": 9.0371608
+      },
+      "entfernung": "9"
+    },
+    "arbeitgeber": "Bundesamt für das Personalmanagement der Bundeswehr",
+    "aktuelleVeroeffentlichungsdatum": "2025-04-03",
+    "modifikationsTimestamp": "2025-04-08T06:50:59.766",
+    "eintrittsdatum": "2025-12-31",
+    "kundennummerHash": "r4Nr7D9JOhLcV4IruLXpHHFrIpPYilR4dd1RNLMMz9I="
+  },
+  {
+    "beruf": "IT-Administrator/in",
+    "titel": "IT-Administrator (m/w/d)",
+    "refnr": "14751-373A21778-S",
+    "arbeitsort": {
+      "plz": "32423",
+      "ort": "Minden, Westfalen",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.2942022,
+        "lon": 8.9498502
+      },
+      "entfernung": "3"
+    },
+    "arbeitgeber": "Tempton Personaldienstleistungen GmbH NL Minden",
+    "aktuelleVeroeffentlichungsdatum": "2025-05-12",
+    "modifikationsTimestamp": "2025-05-30T07:48:25.636",
+    "eintrittsdatum": "2025-05-30",
+    "externeUrl": "https://bewerbung.jobs/c3c16fc0-ab94-4781-b10b-9772c488e006?source=00119ac8-3a27-4400-916b-5fea8eefc2a6"
+  },
+  {
+    "beruf": "Servicetechniker/in - IT",
+    "titel": "Service IT-Techniker / Elektroniker Hardware (m/w/d)",
+    "refnr": "12288-4253908393-S",
+    "arbeitsort": {
+      "plz": "32312",
+      "ort": "Lübbecke, Westfalen",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.3104526,
+        "lon": 8.625555
+      },
+      "entfernung": "19"
+    },
+    "arbeitgeber": "RLE INTERNATIONAL Group",
+    "aktuelleVeroeffentlichungsdatum": "2025-05-26",
+    "modifikationsTimestamp": "2025-06-03T08:40:00.91",
+    "eintrittsdatum": "2025-06-04",
+    "externeUrl": "https://www.persy.jobs/persy/l/job-fovol-b"
+  },
+  {
+    "beruf": "IT-System-Elektroniker/in",
+    "titel": "Service IT-Techniker (m/w/d)",
+    "refnr": "10000-1201731597-S",
+    "arbeitsort": {
+      "plz": "32609",
+      "ort": "Hüllhorst",
+      "strasse": "Hankamp 2",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.263611,
+        "lon": 8.7073001
+      },
+      "entfernung": "14"
+    },
+    "arbeitgeber": "roda computer GmbH",
+    "aktuelleVeroeffentlichungsdatum": "2025-02-25",
+    "modifikationsTimestamp": "2025-05-09T16:55:35.854",
+    "eintrittsdatum": "2025-05-09",
+    "kundennummerHash": "8t1X6hoiOagseADUEczInkRWzwPLC3cvPjzl_E2ZvMw="
+  },
+  {
+    "beruf": "IT-Berater/in",
+    "titel": "​​Consultant Automatische Disposition​ (m/w/d)",
+    "refnr": "13334-00005f58a3a001-S",
+    "arbeitsort": {
+      "plz": "32427",
+      "ort": "Minden, Westfalen",
+      "strasse": "Wittelsbacherallee 61",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.295413735131,
+        "lon": 8.880041509179199
+      },
+      "entfernung": "2"
+    },
+    "arbeitgeber": "EDEKA IT Stiftung & Co. OHG",
+    "aktuelleVeroeffentlichungsdatum": "2025-04-02",
+    "modifikationsTimestamp": "2025-03-19T11:11:31.154",
+    "eintrittsdatum": "2025-03-19",
+    "kundennummerHash": "2YoIyFpXjvDOHGZXmcfq-5ZSI-x4WiEVgV1kdKYWa60="
+  },
+  {
+    "beruf": "IT-Qualitätssicherungskoordinator/in",
+    "titel": "Senior Quality Engineer Embedded (m/w/d)",
+    "refnr": "12336-a25f1103j0419163-S",
+    "arbeitsort": {
+      "plz": "32427",
+      "ort": "Minden, Westfalen",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.2945317,
+        "lon": 8.8788714
+      },
+      "entfernung": "2"
+    },
+    "arbeitgeber": "Sennheiser electronic GmbH & Co. KG",
+    "aktuelleVeroeffentlichungsdatum": "2025-05-23",
+    "modifikationsTimestamp": "2025-05-23T07:01:16.128",
+    "eintrittsdatum": "2025-05-23",
+    "externeUrl": "https://jobs.jobspreader.com/viewjob-fasy6?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=it&utm_term=senior-quality-engineer-embedded-m-w-d"
+  },
+  {
+    "beruf": "IT-Berater/in",
+    "titel": "SAP BI Consultant (m/w/d)",
+    "refnr": "13334-00005f53e02001-S",
+    "arbeitsort": {
+      "plz": "32427",
+      "ort": "Minden, Westfalen",
+      "strasse": "Wittelsbacherallee 61",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.295413735131,
+        "lon": 8.880041509179199
+      },
+      "entfernung": "2"
+    },
+    "arbeitgeber": "EDEKA IT Stiftung & Co. OHG",
+    "aktuelleVeroeffentlichungsdatum": "2025-03-26",
+    "modifikationsTimestamp": "2025-05-23T09:47:29.454",
+    "eintrittsdatum": "2025-05-23",
+    "kundennummerHash": "2YoIyFpXjvDOHGZXmcfq-5ZSI-x4WiEVgV1kdKYWa60="
+  },
+  {
+    "beruf": "IT-Systemadministrator/in",
+    "titel": "Junior IT-Systemadministrator (m/w/d)",
+    "refnr": "10001-1001472128-S",
+    "arbeitsort": {
+      "plz": "32584",
+      "ort": "Löhne",
+      "strasse": "Gewerbestr. 21",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.1789494,
+        "lon": 8.7564211
+      },
+      "entfernung": "17"
+    },
+    "arbeitgeber": "AGOsol GmbH & Co. KG",
+    "aktuelleVeroeffentlichungsdatum": "2025-06-03",
+    "modifikationsTimestamp": "2025-06-03T10:54:10.07",
+    "eintrittsdatum": "2025-06-03",
+    "kundennummerHash": "8wxaN9DyWHr2ThPzKJtjFcTd9sIqz9OGm8_LGc3caMg="
+  },
+  {
+    "beruf": "IT-Systemadministrator/in",
+    "titel": "IT-Systemadministrator (m/w/d)",
+    "refnr": "12908-055943637-S",
+    "arbeitsort": {
+      "plz": "32457",
+      "ort": "Porta Westfalica",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.2253219,
+        "lon": 8.952721
+      },
+      "entfernung": "9"
+    },
+    "arbeitgeber": "Held Küchen Möbelfabrik GmbH",
+    "aktuelleVeroeffentlichungsdatum": "2025-05-28",
+    "modifikationsTimestamp": "2025-06-02T10:25:32.729",
+    "eintrittsdatum": "2025-06-02",
+    "externeUrl": "https://www.jobware.de/job/055943637?jw_chl_seg=ARBEITSAGENTUR"
+  },
+  {
+    "beruf": "Netzwerk-Servicetechniker/in",
+    "titel": "Mitarbeiter IT-Service-Desk (m/w/d)",
+    "refnr": "12781-15355357-KAL-S",
+    "arbeitsort": {
+      "plz": "32545",
+      "ort": "Bad Oeynhausen",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.1849373,
+        "lon": 8.7954384
+      },
+      "entfernung": "15"
+    },
+    "arbeitgeber": "DENIOS SE",
+    "aktuelleVeroeffentlichungsdatum": "2025-05-15",
+    "modifikationsTimestamp": "2025-05-15T08:02:31.253",
+    "eintrittsdatum": "2025-05-15",
+    "externeUrl": "https://www.kalaydo.de/jobs/15355357/?utm_id=ba&utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=000&campaign=ba"
+  },
+  {
+    "beruf": "Altenpfleger/in",
+    "titel": "Pflegefachkraft (m/w/d)",
+    "refnr": "13520-0056671254-S",
+    "arbeitsort": {
+      "plz": "32427",
+      "ort": "Minden, Westfalen",
+      "strasse": "Stiftstraße 16",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.2940876,
+        "lon": 8.9135549
+      },
+      "entfernung": "1"
+    },
+    "arbeitgeber": "Alloheim Senioren-Residenzen SE",
+    "aktuelleVeroeffentlichungsdatum": "2025-06-02",
+    "modifikationsTimestamp": "2025-06-02T15:46:45.046",
+    "eintrittsdatum": "2025-06-03",
+    "kundennummerHash": "AYGSST0sP_ivIdoTDq2RXPU4jwc13EXmAekXDZ-B6RM="
+  },
+  {
+    "beruf": "Informatiker/in",
+    "titel": "Cloud Specialist (m/w/d)",
+    "refnr": "10000-1201452999-S",
+    "arbeitsort": {
+      "plz": "32425",
+      "ort": "Minden, Westfalen",
+      "ortsteil": "Innenstadt",
+      "strasse": "Marienstr. 76",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.299473,
+        "lon": 8.9163924
+      },
+      "entfernung": "1"
+    },
+    "arbeitgeber": "Midland IT GmbH",
+    "aktuelleVeroeffentlichungsdatum": "2025-01-30",
+    "modifikationsTimestamp": "2025-04-23T17:20:25.43",
+    "eintrittsdatum": "2025-03-13",
+    "kundennummerHash": "9JsXSgZvTIQpK9M_4Z18vDMyyM1CavBJyYEIN4oxohs="
+  },
+  {
+    "beruf": "Informatiker/in",
+    "titel": "Technical Consultant (m/w/d)",
+    "refnr": "10000-1201452512-S",
+    "arbeitsort": {
+      "plz": "32425",
+      "ort": "Minden, Westfalen",
+      "ortsteil": "Innenstadt",
+      "strasse": "Marienstr. 76",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.299473,
+        "lon": 8.9163924
+      },
+      "entfernung": "1"
+    },
+    "arbeitgeber": "Midland IT GmbH",
+    "aktuelleVeroeffentlichungsdatum": "2025-01-30",
+    "modifikationsTimestamp": "2025-04-23T17:20:25.271",
+    "eintrittsdatum": "2025-03-13",
+    "kundennummerHash": "9JsXSgZvTIQpK9M_4Z18vDMyyM1CavBJyYEIN4oxohs="
+  },
+  {
+    "beruf": "Fachinformatiker/in - Systemintegration",
+    "titel": "Systemadministrator (m/w/d)",
+    "refnr": "10001-1001467316-S",
+    "arbeitsort": {
+      "ort": "Minden, Westfalen",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.30233377700006,
+        "lon": 8.900473099000067
+      },
+      "entfernung": "0"
+    },
+    "arbeitgeber": "ANG GmbH",
+    "aktuelleVeroeffentlichungsdatum": "2025-05-30",
+    "modifikationsTimestamp": "2025-05-30T16:27:00.606",
+    "eintrittsdatum": "2025-05-30",
+    "kundennummerHash": "80alU6Yhge4-BWuOWzzvpDA9Vn4DkG3wAqz0ih6j7G4="
+  },
+  {
+    "beruf": "Fachinformatiker/in - Systemintegration",
+    "titel": "Support 2nd Level (m/w/d)",
+    "refnr": "10001-1001467300-S",
+    "arbeitsort": {
+      "ort": "Minden, Westfalen",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.30233377700006,
+        "lon": 8.900473099000067
+      },
+      "entfernung": "0"
+    },
+    "arbeitgeber": "ANG GmbH",
+    "aktuelleVeroeffentlichungsdatum": "2025-05-30",
+    "modifikationsTimestamp": "2025-05-30T16:20:17.903",
+    "eintrittsdatum": "2025-05-30",
+    "kundennummerHash": "80alU6Yhge4-BWuOWzzvpDA9Vn4DkG3wAqz0ih6j7G4="
+  },
+  {
+    "beruf": "Fachinformatiker/in - Systemintegration",
+    "titel": "Fachinformatiker*in mit Erfahrung (m/w/d)",
+    "refnr": "10001-1000735569-S",
+    "arbeitsort": {
+      "plz": "32425",
+      "ort": "Minden, Westfalen",
+      "ortsteil": "Innenstadt",
+      "strasse": "Marienstr. 76",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.2994731,
+        "lon": 8.9163924
+      },
+      "entfernung": "1"
+    },
+    "arbeitgeber": "Midland IT GmbH",
+    "aktuelleVeroeffentlichungsdatum": "2024-11-08",
+    "modifikationsTimestamp": "2025-04-23T17:20:24.812",
+    "eintrittsdatum": "2025-01-30",
+    "kundennummerHash": "9JsXSgZvTIQpK9M_4Z18vDMyyM1CavBJyYEIN4oxohs="
+  },
+  {
+    "beruf": "Fachinformatiker/in - Systemintegration",
+    "titel": "System Engineer - Modern Workplace (m/w/d)",
+    "refnr": "10001-1000735590-S",
+    "arbeitsort": {
+      "plz": "32425",
+      "ort": "Minden, Westfalen",
+      "ortsteil": "Innenstadt",
+      "strasse": "Marienstr. 76",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.2994731,
+        "lon": 8.9163924
+      },
+      "entfernung": "1"
+    },
+    "arbeitgeber": "Midland IT GmbH",
+    "aktuelleVeroeffentlichungsdatum": "2024-11-08",
+    "modifikationsTimestamp": "2025-04-23T17:20:24.982",
+    "eintrittsdatum": "2025-01-30",
+    "kundennummerHash": "9JsXSgZvTIQpK9M_4Z18vDMyyM1CavBJyYEIN4oxohs="
+  },
+  {
+    "beruf": "Verwaltungsfachangestellte/r - Kommunalverwaltung",
+    "titel": "Sachbearbeiter*in (m/w/d) Verwaltung",
+    "refnr": "10000-1202662521-S",
+    "arbeitsort": {
+      "ort": "Minden, Westfalen",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.3023337,
+        "lon": 8.900473
+      },
+      "entfernung": "0"
+    },
+    "arbeitgeber": "Stadt Minden Verwaltungsdienststelle",
+    "aktuelleVeroeffentlichungsdatum": "2025-05-30",
+    "modifikationsTimestamp": "2025-05-30T11:44:21.723",
+    "eintrittsdatum": "2025-05-30",
+    "kundennummerHash": "LR48IQ5sZTdb_bO-_T51pFIuAfTmGuWjP9V969g_GWo="
+  },
+  {
+    "beruf": "IT-Systemadministrator/in",
+    "titel": "Systemadministrator (m/w/d)",
+    "refnr": "12265-458728_JB4787506-S",
+    "arbeitsort": {
+      "plz": "32312",
+      "ort": "Lübbecke, Westfalen",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.31045255021624,
+        "lon": 8.625555026896622
+      },
+      "entfernung": "19"
+    },
+    "arbeitgeber": "FERCHAU GmbH Niederlassung Bielefeld",
+    "aktuelleVeroeffentlichungsdatum": "2025-05-30",
+    "modifikationsTimestamp": "2025-05-30T10:13:23.607",
+    "eintrittsdatum": "2025-06-03",
+    "kundennummerHash": "DiFv5mBsgf6RTKAV4m2-SR9m_-GdqozRjE05Pf3VF8U="
+  },
+  {
+    "beruf": "IT-Systemadministrator/in",
+    "titel": "IT-Systemadministrator (m/w/d) in Bad Oeynhausen",
+    "refnr": "10001-1001469463-S",
+    "arbeitsort": {
+      "plz": "32545",
+      "ort": "Bad Oeynhausen",
+      "strasse": "Am Brinkkamp 16",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.1956699,
+        "lon": 8.7867725
+      },
+      "entfernung": "14"
+    },
+    "arbeitgeber": "CURA Seniorenwohn- und Pflegeheime Dienstleistungs GmbH",
+    "aktuelleVeroeffentlichungsdatum": "2025-06-02",
+    "modifikationsTimestamp": "2025-06-03T07:54:18.09",
+    "eintrittsdatum": "2025-06-03",
+    "kundennummerHash": "TFzJ0668iM1xKftrKsQyqq01iK4M3_VPqC0p3qZTCOs="
+  },
+  {
+    "beruf": "Altenpfleger/in",
+    "titel": "Pflegefachkraft (m/w/d)",
+    "refnr": "13520-0056671134-S",
+    "arbeitsort": {
+      "plz": "32423",
+      "ort": "Minden, Westfalen",
+      "strasse": "Weingarten 6",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.2864527,
+        "lon": 8.9093534
+      },
+      "entfernung": "2"
+    },
+    "arbeitgeber": "Alloheim Senioren-Residenzen SE",
+    "aktuelleVeroeffentlichungsdatum": "2025-06-02",
+    "modifikationsTimestamp": "2025-06-02T15:45:11.338",
+    "eintrittsdatum": "2025-06-03",
+    "kundennummerHash": "AYGSST0sP_ivIdoTDq2RXPU4jwc13EXmAekXDZ-B6RM="
+  },
+  {
+    "beruf": "Kaufmann/-frau - IT-System-Management",
+    "titel": "Fachinformatiker (m/w/d) oder Kaufmann (m/w/d) für unsere FIBU Supportabteilung!",
+    "refnr": "10000-1200770672-S",
+    "arbeitsort": {
+      "plz": "31675",
+      "ort": "Bückeburg",
+      "strasse": "Hannoversche Str. 21",
+      "region": "Niedersachsen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.2629152,
+        "lon": 9.059878
+      },
+      "entfernung": "11"
+    },
+    "arbeitgeber": "B.I.T. Soft GmbH & Co. KG",
+    "aktuelleVeroeffentlichungsdatum": "2024-11-22",
+    "modifikationsTimestamp": "2025-05-30T10:43:49.823",
+    "eintrittsdatum": "2025-05-23",
+    "kundennummerHash": "PtUma7KvhN_SVJgIFMlpJbYjy5UbeZS1uI4a-t-HDL4="
+  },
+  {
+    "beruf": "Verwaltungsfachangestellte/r - Kommunalverwaltung",
+    "titel": "Sachbearbeiter*in Personal Freiwillige Feuerwehr",
+    "refnr": "10000-1202670174-S",
+    "arbeitsort": {
+      "plz": "32423",
+      "ort": "Minden, Westfalen",
+      "strasse": "Kleiner Domhof 17",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.2889803,
+        "lon": 8.9180515
+      },
+      "entfernung": "2"
+    },
+    "arbeitgeber": "Stadt Minden Verwaltungsdienststelle",
+    "aktuelleVeroeffentlichungsdatum": "2025-06-02",
+    "modifikationsTimestamp": "2025-06-02T09:56:20.322",
+    "eintrittsdatum": "2025-06-02",
+    "kundennummerHash": "LR48IQ5sZTdb_bO-_T51pFIuAfTmGuWjP9V969g_GWo="
+  },
+  {
+    "beruf": "Cloud-Architect",
+    "titel": "(Senior) Cloud Engineer (m/w/d)",
+    "refnr": "13334-00005f5a215001-S",
+    "arbeitsort": {
+      "plz": "32427",
+      "ort": "Minden, Westfalen",
+      "strasse": "Wittelsbacherallee 61",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.295413735131,
+        "lon": 8.880041509179199
+      },
+      "entfernung": "2"
+    },
+    "arbeitgeber": "EDEKA IT Stiftung & Co. OHG",
+    "aktuelleVeroeffentlichungsdatum": "2025-04-30",
+    "modifikationsTimestamp": "2025-05-29T10:09:22.328",
+    "eintrittsdatum": "2025-05-29",
+    "kundennummerHash": "2YoIyFpXjvDOHGZXmcfq-5ZSI-x4WiEVgV1kdKYWa60="
+  },
+  {
+    "beruf": "IT-Vertriebsbeauftragte/r",
+    "titel": "Vertriebsmitarbeiter (m/w/d)",
+    "refnr": "10000-1198387392-S",
+    "arbeitsort": {
+      "plz": "32479",
+      "ort": "Hille",
+      "strasse": "Nordhemmer Str. 97",
+      "region": "Nordrhein-Westfalen",
+      "land": "Deutschland",
+      "koordinaten": {
+        "lat": 52.3373445,
+        "lon": 8.806741
+      },
+      "entfernung": "8"
+    },
+    "arbeitgeber": "Bücker IT-Security GmbH",
+    "aktuelleVeroeffentlichungsdatum": "2024-03-18",
+    "modifikationsTimestamp": "2025-04-25T08:23:10.269",
+    "eintrittsdatum": "2024-11-22",
+    "kundennummerHash": "xwXJGTaTVs4h3O7n-gQsQ5ix0pTALZHnMZGWhh21pLg="
+  }
+]
