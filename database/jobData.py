@@ -84,11 +84,53 @@ class Jobs(Base):
     Description = Column(String, nullable=True)
     Type = Column(String, nullable=True)
     Ref = Column(String, unique=True, index=True, nullable=True)
-    Url = Column(String, nullanle=True)
+    Url = Column(String, nullable=True)
 
-    created_at = Column(DateTime, default=datetime.datetime.now(datetime.UTC))
-    updated_at = Column(DateTime, default=datetime.datetime.now(datetime.UTC), onupdate=datetime.datetime.now(datetime.UTC))
+    Contact = Column(JSON, nullable=True)
+    Status = Column(JSON, nullable=True)
 
-    
+    created_at = Column(DateTime, default=datetime.datetime.now(datetime.timezone.utc))
+    updated_at = Column(DateTime, default=datetime.datetime.now(datetime.timezone.utc), onupdate=datetime.datetime.now(datetime.timezone.utc))
 
+    def __init__(self,
+                 Name: str = None,
+                 Description: str = None,
+                 Type: str = None,
+                 Ref: str = None,
+                 Url: str = None,
+                 Contact: dict = None,
+                 Status: dict = None) -> None:
+        self.Name = Name
+        self.Description = Description
+        self.Type = Type = Type
+        self.Ref = Ref
+        self.Url = Url
+        # Datasctructure for Contact and Status of not provided.
+        self.Contact = Contact if Contact is not None else {
+            'email': None, 'phone': None, 'company': None, 'contactPerson': None,
+            'address': {'street': None, 'city': None, 'state': None, 'zip': None, 'country': None}
+        }
+        self.Status = Status if Status is not None else {
+            'active': False, 'completed': None, 'when': None
+        }
 
+    def toJSON(self) -> dict:
+        return {
+            'id': self.id,
+            'Name': self.Name,
+            'Description': self.Description,
+            'Type': self.Type,
+            'Ref': self.Ref,
+            'Url': self.Url,
+            'Contact': self.Contact,
+            'Status': self.Status,
+            'created_at': self.created_at.isoformat() if self.created_at else None,
+            'updated_at': self.updated_at.isoformat() if self.updated_at else None,
+        }
+
+def create_db_table():
+    Base.metadata.create_all(bind=engine)
+    print("Database tables checked/created successfully.")
+
+if __name__ == '__main__':
+    create_db_table()

@@ -1,35 +1,36 @@
-SpamThatJob: Fully Automated Job Application & Scraper
+## SpamThatJob: Fully Automated Job Application & Scraper
 
-SpamThatJob is a powerful, Python-based solution designed to revolutionize your job search by automating the entire application process. Say goodbye to manual submissions and tedious form-filling. This project intelligently scrapes job postings, customizes application materials, and sends them directly to recruiters, maximizing your application volume with minimal effort.
-✨ Features
+#### SpamThatJob is a powerful, Python-based solution designed to revolutionize your job search by automating the entire application process. Say goodbye to manual submissions and tedious form-filling. This project intelligently scrapes job postings, customizes application materials, and sends them directly to recruiters, maximizing your application volume with minimal effort.
 
-    Intelligent Job Scraping: Configurable web scrapers to extract job postings from various online platforms (e.g., LinkedIn, Indeed, company career pages).
+##### ✨ Features
 
-    Automated Application Submission: Fills out online application forms and navigates submission flows autonomously.
+- Intelligent Job Scraping: Configurable web scrapers to extract job postings from various online platforms (e.g., LinkedIn, Indeed, company career pages).
 
-    Dynamic Resume & Cover Letter Customization: Tailors your resume and cover letter on-the-fly based on job descriptions and keywords, increasing relevance and impact.
+- Automated Application Submission: Fills out online application forms and navigates submission flows autonomously.
 
-    Email & API Integration: Sends applications and personalized documents directly via email or through platform-specific APIs (where available).
+- Dynamic Resume & Cover Letter Customization: Tailors your resume and cover letter on-the-fly based on job descriptions and keywords, increasing relevance and impact.
 
-    Application Tracking & Logging: Maintains a record of all submitted applications, including job details, submission status, and generated documents.
+- Email & API Integration: Sends applications and personalized documents directly via email or through platform-specific APIs (where available).
+
+- Application Tracking & Logging: Maintains a record of all submitted applications, including job details, submission status, and generated documents.
 
     Configurable & Extensible: Easily adapt the scraper to new job sites and customize application logic with a modular design.
 
     Built with Python: Leveraging robust libraries for web scraping, natural language processing (for customization), and email automation.
 
-🎯 Why SpamThatJob?
+##### 🎯 Why SpamThatJob?
 
 In today's competitive job market, speed and volume can be critical. SpamThatJob empowers job seekers to:
 
-    Save Time: Eliminate hours spent on repetitive application tasks.
+- Save Time: Eliminate hours spent on repetitive application tasks.
 
-    Increase Reach: Apply to a significantly higher number of relevant positions.
+- Increase Reach: Apply to a significantly higher number of relevant positions.
 
-    Stay Organized: Keep a centralized log of all application activities.
+- Stay Organized: Keep a centralized log of all application activities.
 
-    Automate Customization: Ensure each application feels personalized without manual effort.
+- Automate Customization: Ensure each application feels personalized without manual effort.
 
-🚀 Getting Started
+##### 🚀 Getting Started
 
 To get a copy of the project up and running on your local machine for development and testing purposes, follow these steps:
 
@@ -51,17 +52,15 @@ To get a copy of the project up and running on your local machine for developmen
 
     (Provide more specific instructions here based on your actual project structure.)
 
-🛠️ Built With
+##### 🛠️ Built With
 
-    Python - The core programming language
+- Python - The core programming language
 
-    Beautiful Soup / Scrapy / Selenium - For web scraping and browser automation
+- Beautiful Soup / Camoufox - For web scraping and browser automation
 
-    Pandas - For data handling and logging
+- Pandas & SQLAlchemy - For data handling and logging
 
-    (Add any other significant libraries you use, e.g., smtplib for email, docx for document generation)
-
-🤝 Contributing
+##### 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -75,11 +74,12 @@ Contributions are what make the open-source community such an amazing place to l
 
     Open a Pull Request
 
-⚖️ License
+##### ⚖️ License
 
 Distributed under the MIT License. See LICENSE for more information.
-📞 Contact
 
-Your Name / Your GitHub Username - your_email@example.com
+##### 📞 Contact
 
-Project Link: https://github.com/YOUR_GITHUB_USERNAME/SpamThatJob
+Julian Huch / pierelucas - pierelucas@protonmail.ch
+
+Project Link: https://github.com/pierelucas/SpamThatJob
