@@ -74,7 +74,7 @@ engine = create_engine(DATABASE_URL,
 # SessionLocal will be sued to crreate database sessions
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
-class Jobs(Base):
+class Job(Base):
     __tablename__ = 'jobs'
 
     # Auto-Incrementing User ID
@@ -102,7 +102,7 @@ class Jobs(Base):
                  Status: dict = None) -> None:
         self.Name = Name
         self.Description = Description
-        self.Type = Type = Type
+        self.Type = Type
         self.Ref = Ref
         self.Url = Url
         # Datasctructure for Contact and Status of not provided.
@@ -129,7 +129,10 @@ class Jobs(Base):
         }
 
 def create_db_table():
-    Base.metadata.create_all(bind=engine)
+    # Base.metadata.create_all(bind=engine)
+    # Jobs.metadata.create_all(bind=engine)
+    db = Job()
+    db.metadata.create_all(bind=engine)
     print("Database tables checked/created successfully.")
 
 if __name__ == '__main__':
